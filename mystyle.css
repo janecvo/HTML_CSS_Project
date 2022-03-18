@@ -139,6 +139,8 @@ h1, h2, h3, footer{
 /*BONUS*/
 
 .bonusP{
+    display: flex;
+    justify-content: center;
     margin: 50px;
     padding: 10px;
     border: 5px solid blue;
