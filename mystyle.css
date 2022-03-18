@@ -3,13 +3,13 @@
     padding: 5px;
 }
 
-.nav-link-bonus{
-    color:white;
-    text-decoration: none;
+.all{
+    background-color: antiquewhite;
 }
 
-container{ 
-    background-color: black;
+.nav-link-bonus{
+    color:antiquewhite;
+    text-decoration: none;
 }
 
 h1, h2, h3, footer, #projectP{
@@ -24,7 +24,7 @@ h1, h2, h3, footer, #projectP{
 }
 
 .nav-link-bonus:hover{
-    color:white;
+    color:antiquewhite;
 }
 
 
