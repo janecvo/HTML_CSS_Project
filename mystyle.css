@@ -85,6 +85,7 @@ h1, h2, h3, footer{
 
     .interest{
         padding: 10px;
+        text-align: center;
     }
     h6{
         color:aqua;
@@ -112,6 +113,10 @@ h1, h2, h3, footer{
     .MrRogers{
         display:flex;
         justify-content: center;
+    }
+
+    .doggos{
+        list-style-type: none;
     }
 
 /* projects */
