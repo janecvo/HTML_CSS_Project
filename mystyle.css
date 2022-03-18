@@ -163,3 +163,8 @@ h1, h2, h3, footer, #projectP{
     border-style: double;
     border-width: 10px;
     }
+
+.BimBim{
+    display: flex;
+    justify-content: center;
+}    
